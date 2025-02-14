@@ -83,7 +83,10 @@ content/results
 
 # jupyter-book build
 book/_build
-content/notebooks
+# content/notebooks
 
 # jupyterlite build
 jupyterlite/.jupyterlite.doit.db
+
+# venv
+.venv
